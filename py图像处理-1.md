@@ -1,7 +1,7 @@
 ```python
 from PIL import Image
 import numpy as np
-///引入 Pillow,numpy库
+#引入 Pillow,numpy库
 
 from PIL import Image
 import numpy as np
