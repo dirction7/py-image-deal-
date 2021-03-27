@@ -1,4 +1,4 @@
-
+```
 from PIL import Image
 import numpy as np
 
@@ -8,7 +8,7 @@ import numpy as np
 a=np.asarray(Image.open('1.jpg').convert('L'))
 im = Image.fromarray(a.astype('uint8'))
 im.save('project1.jpg')
-//
-!(https://github.com/dirction7/zs/blob/main/images/1.jpg "初始")
+```
+![Image of Yaktocat](images/1.jpg)
 
 !(C:\Users\LENOVO\Desktop\项目\第1次实验2021-3-20\project1.jpg "初始")
