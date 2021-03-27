@@ -11,7 +11,7 @@ im.save('project1.jpg')
 ```
 
 <img width="300" height="300" src=project-1/1.jpg /></img>
-
-##初始
+初始
 
 <img width="300" height="300" src=project-1/project1.jpg/></img>
+修改
