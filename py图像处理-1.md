@@ -11,4 +11,4 @@ im.save('project1.jpg')
 ```
 ![Image of Yaktocat](project-1/1.jpg)
 
-!(C:\Users\LENOVO\Desktop\项目\第1次实验2021-3-20\project1.jpg "初始")
+![Image of Yaktocat](project-1/project1.jpg)
